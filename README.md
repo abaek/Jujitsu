@@ -1,6 +1,5 @@
 # Jujitsu
-### by [Andy Baek](https://github.com/abaek)
 
-## Description
+A multiplayer online card game based on [psychological jujitsu](http://www.icynic.com/~don/psych.html).
 
-A multiplayer online card game based on [http://www.icynic.com/~don/psych.html](psychological jujitsu).
+Play it here: [https://andyscardgame.herokuapp.com](https://andyscardgame.herokuapp.com)
