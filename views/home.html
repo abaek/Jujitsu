@@ -1,7 +1,14 @@
 <html>
 
-<div id = 'playingarea'>
-	Hi
+<div id = 'main_board'>
+
+	<div ng-repeat="player in players">
+		<span ng-repeat="val in cards">
+			<button ng-click="cardChosen(val, player)" class="card">{{val}}</button>
+		</span>
+		{{player.chosenCard}}
+	</div>
+
 </div>
 
 </html>
